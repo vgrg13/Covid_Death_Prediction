@@ -4,7 +4,7 @@
 3. [Data Sources](#Data-Sources)
 4. [Model Predictors](#Model-Predictors)
 5. [Model Performance and Validation Results](#Model-Performance-and-Validation-Results)
-6. [Final Report](#Final-Report)
+6. [Results Summary](#Results-Summary)
 
 # Covid Death Predictor Model Objective
 Given certain characteristics about an individual, can the machine predict if the patient will die due to COVID-19? 
@@ -83,7 +83,7 @@ The final image is a confusion matrix of the test data. Most importantly, it sho
 
 ***
 
-# Results Overview
+# Results Summary
 
 - Given some simple demographic information about the patients, the model will predict around 16% or 2400 patients to have increased risk of dying (True Positives + False Positives). Out of these 2400 patients, around 12% or 300 patients will die (True Positives). Almost none of the people the model predicts as not dying will die (about 0.1%)
 
